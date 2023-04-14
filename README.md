@@ -1,4 +1,4 @@
-# Business-Intelligence
+# Business Intelligence
 
 ## Introduction 
 
